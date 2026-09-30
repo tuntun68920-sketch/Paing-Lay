@@ -630,7 +630,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-xl font-black uppercase tracking-wider text-stone-100 font-sans flex items-center gap-2">
-                <span>Kyaw Gyi Fruit AI</span>
+                <span>Paing Lay Ai Creation</span>
                 <span className="px-1.5 py-0.5 bg-amber-500/10 border border-amber-500/20 text-amber-500 rounded text-[9px] font-bold tracking-normal uppercase">
                   v2.0
                 </span>
@@ -1058,7 +1058,7 @@ export default function App() {
 
         {/* Minimal Footer */}
         <footer className="border-t border-stone-900 pt-6 mt-auto text-center text-xs text-stone-600 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p>© 2026 Kyaw Gyi Fruit AI. Crafted beautifully for Myanmar Creators.</p>
+          <p>© 2026 Paing Lay Ai Creation. Crafted beautifully for Myanmar Creators.</p>
           <p className="flex items-center gap-1">
             <span>Powered by</span>
             <span className="text-amber-500/70 font-semibold font-mono">Gemini 3.5 Flash</span>
