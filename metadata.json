@@ -1,0 +1,8 @@
+{
+  "name": "Fruit Story Creator",
+  "description": "အသီးဇာတ်လမ်းတိုလေးများကို စိတ်ကြိုက်ဖန်တီး၊ တည်းဖြတ်ပြီး အပိုင်းလိုက်သိမ်းဆည်းနိုင်မည့် AI အကူအညီပေးစနစ် (Burmese, English, Japanese စကားပြော Dialogue ဘာသာစကားရွေးချယ်မှု စနစ်ပါဝင်သည်)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

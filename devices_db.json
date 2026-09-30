@@ -1,0 +1,16 @@
+{
+  "device_n3atsaj0v_mrj2vj6k": {
+    "deviceId": "device_n3atsaj0v_mrj2vj6k",
+    "deviceName": "Android Phone",
+    "lastSeen": 1788602957530,
+    "ip": "74.81.63.82",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36"
+  },
+  "device_0xebs2lur_mshojx63": {
+    "deviceId": "device_0xebs2lur_mshojx63",
+    "deviceName": "Windows PC",
+    "lastSeen": 1789107053739,
+    "ip": "2607:fa98:1000::53",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+  }
+}
